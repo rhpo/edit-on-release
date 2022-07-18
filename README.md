@@ -13,7 +13,7 @@
 After downloading | cloning this repository, you need to go the Program.cs file (edit-on-release/edit-on-release/Program.cs) and set the ``EDIT_KEY`` and ``TOGGLE_HARVESTING_TOOL`` strings to your prefered keys. Defaults are set to <key>F</key> and <key>A</key>.
 
 
-![](https://i.snipboard.io/6CgJ8f.jpg)
+![](https://i.snipboard.io/aRGyiI.jpg)
 
 
 # Installing: 

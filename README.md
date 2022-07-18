@@ -23,4 +23,4 @@ Open Windows Powershell or CMD, then [cd (Go)](https://www.google.com/url?sa=t&r
 After Installing and building the Project. while you're on the project directory (the directory where u ran the last command), go to /bin/Debug, then finally run editOnRelease.exe.
 
 # Last Step: Enjoy!
-Written by @rhpo in C#.
+> Written and maintained by @rhpo in C# ❤️.

@@ -28,7 +28,7 @@ namespace editOnRelease
         }
         static void Hook_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyValue.ToString() == EDIT_KEY.ToUpper())
+            if (e.KeyData.ToString() == EDIT_KEY.ToUpper())
             {
                 isF = !isF;
             }

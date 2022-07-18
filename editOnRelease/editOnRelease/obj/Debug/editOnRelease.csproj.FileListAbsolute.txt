@@ -1,0 +1,12 @@
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\obj\Debug\editOnRelease.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\obj\Debug\editOnRelease.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\obj\Debug\editOnRelease.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\bin\Debug\editOnRelease.exe.config
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\bin\Debug\editOnRelease.exe
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\bin\Debug\editOnRelease.pdb
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\obj\Debug\editOnRelease.exe
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\obj\Debug\editOnRelease.pdb
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\obj\Debug\editOnRelease.csproj.CopyComplete
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ramy\source\repos\editOnRelease\editOnRelease\bin\Debug\Newtonsoft.Json.xml

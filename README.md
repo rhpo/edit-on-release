@@ -10,7 +10,7 @@
 </center>
 
 # Preferences:
-After downloading | cloning this repository, you need to go the Program.cs file *^Open it in notepad if you don't have a code editor)^* (edit-on-release/edit-on-release/Program.cs) and set the ``EDIT_KEY`` and ``TOGGLE_HARVESTING_TOOL`` strings to your prefered keys. Defaults are set to <key>F</key> and <key>A</key>.
+After downloading | cloning this repository, you need to go the Program.cs file *(Open it in notepad if you don't have a code editor)* (edit-on-release/edit-on-release/Program.cs) and set the ``EDIT_KEY`` and ``TOGGLE_HARVESTING_TOOL`` strings to your prefered keys. Defaults are set to <key>F</key> and <key>A</key>.
 
 
 ![](https://i.snipboard.io/aRGyiI.jpg)
